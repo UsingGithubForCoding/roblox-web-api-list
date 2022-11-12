@@ -1,4 +1,5 @@
-Roblox API Sites
+Roblox Web API Sites
+I DID NOT WRITE THIS. ALL OF THIS IS WRITTEN BY A ROBLOX ADMINISTRATOR "@SERANOK".
 ================
 | Site | Description |
 | -: | :- |
